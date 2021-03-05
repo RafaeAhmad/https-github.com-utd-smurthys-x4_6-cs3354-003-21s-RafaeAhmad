@@ -1,3 +1,2 @@
 # Exercise 4.6
-# t4_6-cs3354
-
+This product created by Ed Wall
